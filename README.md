@@ -1,7 +1,9 @@
 # IRC
 Logiciel de chat serveur/client
 
-how it work
+OS:mac
+
+comment sa fonctionne:
 
 -make
 -./serveur <port>
