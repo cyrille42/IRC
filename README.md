@@ -11,8 +11,8 @@ comment sa fonctionne:
 
 /help for all command
 
-/join rejoin/cree un channel
+/join rejoin/crée un channel
 
 le reste fonctionne comme irc.
 
-seul les personnes dans le meme channel peuve ce parler .
+seul les personnes dans le même channel peuvent ce parler .
